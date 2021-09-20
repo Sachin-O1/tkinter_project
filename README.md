@@ -1,2 +1,2 @@
 # tkinter_project
-Data base based tkinter project
+Database based tkinter project
